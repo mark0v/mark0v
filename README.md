@@ -1,22 +1,66 @@
-# Hello, I'm Mark0v!
+# 👋 Hello, I'm Mark0v!
 
-Welcome to my GitHub profile! I'm a QA Engineer deeply passionate about pushing the boundaries of automated testing through innovative containerization technologies and robust C# solutions.
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark0v/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mark0v)
 
-## What I Do
+</div>
 
-- **Containerization:** Leveraging cutting-edge technologies to create scalable and efficient testing environments.
-- **Automated Testing:** Developing automated tests in C# to ensure software reliability and performance.
+## 🚀 About Me
 
-## My Projects
+I'm a passionate QA Engineer specializing in automated testing and containerization technologies. With a strong focus on C# development, I'm dedicated to creating robust, scalable testing solutions that ensure software quality and reliability.
 
-Feel free to explore my repositories to see what I've been working on! Here are a few highlights:
+## 💡 Core Expertise
 
-- [Design-Patterns-for-High-Quality-Automated-Tests-CSharp-Workshop](https://github.com/mark0v/Design-Patterns-for-High-Quality-Automated-Tests-CSharp-Workshop.git)
+- **🛠️ Containerization & DevOps**
+  - Docker & Kubernetes
+  - CI/CD Pipeline Integration
+  - Infrastructure as Code
 
-## Get in Touch
+- **🧪 Automated Testing**
+  - C# Test Automation
+  - Selenium WebDriver
+  - API Testing
+  - Performance Testing
 
-I love connecting with fellow tech enthusiasts and collaborators. You can find me on:
+- **🎯 Quality Assurance**
+  - Test Strategy Development
+  - Test Automation Frameworks
+  - Quality Metrics & Reporting
 
-- LinkedIn: [https://www.linkedin.com/in/mark0v/]
+## 🏆 Featured Projects
 
-Thank you for visiting my profile. Let's innovate and build something great together!
+### Design Patterns for High-Quality Automated Tests
+[![Repository](https://img.shields.io/badge/Repository-Design%20Patterns-blue)](https://github.com/mark0v/Design-Patterns-for-High-Quality-Automated-Tests-CSharp-Workshop.git)
+A comprehensive workshop on implementing design patterns in C# for creating maintainable and scalable automated tests.
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mark0v&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mark0v&layout=compact&theme=radical)
+
+</div>
+
+## 🤝 Let's Connect
+
+I'm always open to:
+- Collaborating on interesting projects
+- Discussing testing strategies
+- Sharing knowledge about automation
+- Exploring new technologies
+
+📫 Reach me at:
+- LinkedIn: [Mark0v](https://www.linkedin.com/in/mark0v/)
+
+## 🌟 Fun Fact
+
+When I'm not writing tests, you can find me exploring new technologies or contributing to open-source projects!
+
+---
+
+<div align="center">
+  
+⭐️ From [Mark0v](https://github.com/mark0v)
