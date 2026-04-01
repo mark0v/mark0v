@@ -64,16 +64,17 @@ A C# workshop repository focused on building maintainable and scalable automated
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mark0v&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark0v&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mark0v&theme=github_dark" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=mark0v&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mark0v&theme=github_dark" alt="Top languages by repo" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mark0v&theme=github_dark" alt="Top languages by commits" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mark0v&bg_color=00000000&color=4c8eda&line=4c8eda&point=9fb3c8&area=true&hide_border=true" alt="Contribution graph" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mark0v&theme=github_dark" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mark0v&theme=github_dark&utcOffset=3" alt="Productive time" />
 </p>
 
 ## Let's Connect
